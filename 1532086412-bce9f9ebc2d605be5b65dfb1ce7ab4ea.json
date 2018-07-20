@@ -1,0 +1,19 @@
+{
+    "unix_timestamp_utc_previous_file": 1532085092,
+    "hash_md5_previous_file": "af20bbab308abe56a213908a19ffebb6",
+    "transactions": [
+        {
+            "uuid": "15320863-4367-7549-cc8f-8d9c0a7d4205",
+            "type": "payment",
+            "status": "completed",
+            "datetime": 1532086343,
+            "from_eth_address": "0x14f05a4593ee1808541525a5aa39e344381251e6",
+            "to_eth_address": "0x7cd2cac31e939e2d4202f537c040b8e0781ac04c",
+            "executor_eth_address": "0x14f05a4593ee1808541525a5aa39e344381251e6",
+            "amount": "0x9502f900",
+            "eth_txhash": "",
+            "knleader": ""
+        }
+    ],
+    "unix_timestamp_utc": 1532086412
+}
