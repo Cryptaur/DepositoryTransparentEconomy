@@ -1,0 +1,55 @@
+{
+    "unix_timestamp_utc_previous_file": 1535763661,
+    "hash_md5_previous_file": "23de53fb0a26bcd64ad8a18d4d339224",
+    "transactions": [
+        {
+            "uuid": "15358230-7068-61a7-e077-14a60eef40fa",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1535823124,
+            "from_eth_address": "",
+            "to_eth_address": "0x627ed0e860491e18ca44f3f6ea33119ba9c019d7",
+            "executor_eth_address": "0x627ed0e860491e18ca44f3f6ea33119ba9c019d7",
+            "amount": "0xd69977cad",
+            "eth_txhash": "",
+            "knleader": ""
+        },
+        {
+            "uuid": "15358239-2754-61d4-5d26-fb9505143b61",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1535823964,
+            "from_eth_address": "",
+            "to_eth_address": "0x627ed0e860491e18ca44f3f6ea33119ba9c019d7",
+            "executor_eth_address": "0x627ed0e860491e18ca44f3f6ea33119ba9c019d7",
+            "amount": "0xd69977cad",
+            "eth_txhash": "",
+            "knleader": ""
+        },
+        {
+            "uuid": "15358394-4351-923c-29a1-6bf80d5280cf",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1535839504,
+            "from_eth_address": "",
+            "to_eth_address": "0xe673078de4ede2b0f08b2e99f1daf8ef4f91e5a4",
+            "executor_eth_address": "0xe673078de4ede2b0f08b2e99f1daf8ef4f91e5a4",
+            "amount": "0x1443f65f390",
+            "eth_txhash": "",
+            "knleader": ""
+        },
+        {
+            "uuid": "15358394-5530-328c-0b4d-689e0923417c",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1535839504,
+            "from_eth_address": "",
+            "to_eth_address": "0xe673078de4ede2b0f08b2e99f1daf8ef4f91e5a4",
+            "executor_eth_address": "0xe673078de4ede2b0f08b2e99f1daf8ef4f91e5a4",
+            "amount": "0x1443f65f390",
+            "eth_txhash": "",
+            "knleader": ""
+        }
+    ],
+    "unix_timestamp_utc": 1535850061
+}
