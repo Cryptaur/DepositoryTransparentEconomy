@@ -1,0 +1,67 @@
+{
+    "unix_timestamp_utc_previous_file": 1541466061,
+    "hash_md5_previous_file": "f9251bae99eaf9d1a1097dba2807e445",
+    "transactions": [
+        {
+            "uuid": "15414918-0542-6470-5a59-146a08a4481e",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1541491864,
+            "from_eth_address": "",
+            "to_eth_address": "0xadf227c1af61551931687c03edc6b5aa835078aa",
+            "executor_eth_address": "0xadf227c1af61551931687c03edc6b5aa835078aa",
+            "amount": "0x417bce6c800",
+            "eth_txhash": "",
+            "knleader": ""
+        },
+        {
+            "uuid": "15415018-6967-835a-c167-b4d8002cb734",
+            "type": "payment",
+            "status": "completed",
+            "datetime": 1541501869,
+            "from_eth_address": "0x1b9dcd94989cb8da6c4f920aaf08c8e8e0ef70b6",
+            "to_eth_address": "0xd33207eb62f72476798249963c535645c50f87cc",
+            "executor_eth_address": "0xd33207eb62f72476798249963c535645c50f87cc",
+            "amount": "0xba43b7400",
+            "eth_txhash": "",
+            "knleader": ""
+        },
+        {
+            "uuid": "15415137-8959-65f4-863d-f8b90756db9b",
+            "type": "deposit",
+            "status": "completed",
+            "datetime": 1541513944,
+            "from_eth_address": "",
+            "to_eth_address": "0xa731286e8b86b2955b114897234cfe8ca975927f",
+            "executor_eth_address": "0xa731286e8b86b2955b114897234cfe8ca975927f",
+            "amount": "0xcaa3ec29188",
+            "eth_txhash": "0xc37869fb817bee378e49e601aed9992164dd9cd0d30c5dcdb58983c769c3b2d8",
+            "knleader": ""
+        },
+        {
+            "uuid": "15415189-7992-5127-2989-50a10ed1fcc6",
+            "type": "deposit",
+            "status": "completed",
+            "datetime": 1541519045,
+            "from_eth_address": "",
+            "to_eth_address": "0xa731286e8b86b2955b114897234cfe8ca975927f",
+            "executor_eth_address": "0xa731286e8b86b2955b114897234cfe8ca975927f",
+            "amount": "0x7904914c65",
+            "eth_txhash": "0xd4d9f3609969930e9715af96814109a8778f961e23a19628a973e1638812f77d",
+            "knleader": ""
+        },
+        {
+            "uuid": "15415195-1706-0466-e68f-bf740af8fb6c",
+            "type": "payment",
+            "status": "completed",
+            "datetime": 1541519517,
+            "from_eth_address": "0xa731286e8b86b2955b114897234cfe8ca975927f",
+            "to_eth_address": "0x01650e8ce0e372ba9aaa14d5f41ea4e438a0f9cf",
+            "executor_eth_address": "0x01650e8ce0e372ba9aaa14d5f41ea4e438a0f9cf",
+            "amount": "0xd09cfae3f90",
+            "eth_txhash": "",
+            "knleader": ""
+        }
+    ],
+    "unix_timestamp_utc": 1541552461
+}
