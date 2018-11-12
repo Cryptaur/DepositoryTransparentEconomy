@@ -1,0 +1,55 @@
+{
+    "unix_timestamp_utc_previous_file": 1541898061,
+    "hash_md5_previous_file": "09771055b3b1604fa6867dc20fad543a",
+    "transactions": [
+        {
+            "uuid": "15419125-7025-6487-e6c5-1d8e08896230",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1541912584,
+            "from_eth_address": "",
+            "to_eth_address": "0x48c9f2ee9c594642172748d50e20cce0c208142a",
+            "executor_eth_address": "0x48c9f2ee9c594642172748d50e20cce0c208142a",
+            "amount": "0xde91ab15aa6",
+            "eth_txhash": "",
+            "knleader": ""
+        },
+        {
+            "uuid": "15419240-9949-4603-f910-94ac0a042b44",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1541924165,
+            "from_eth_address": "",
+            "to_eth_address": "0x25dfe4c271fe63faab45e78107552730cc9fc1d8",
+            "executor_eth_address": "0x25dfe4c271fe63faab45e78107552730cc9fc1d8",
+            "amount": "0x3df07644e3",
+            "eth_txhash": "",
+            "knleader": ""
+        },
+        {
+            "uuid": "15419259-9553-582c-a53f-94a50503fd5c",
+            "type": "payment",
+            "status": "completed",
+            "datetime": 1541925995,
+            "from_eth_address": "0xd33207eb62f72476798249963c535645c50f87cc",
+            "to_eth_address": "0x9e59054717275494258afa22e0f329cc642bf8da",
+            "executor_eth_address": "0xd33207eb62f72476798249963c535645c50f87cc",
+            "amount": "0x1d1a94a200",
+            "eth_txhash": "",
+            "knleader": ""
+        },
+        {
+            "uuid": "15419568-4247-2265-708a-02d603f82000",
+            "type": "payment",
+            "status": "completed",
+            "datetime": 1541956842,
+            "from_eth_address": "0xd33207eb62f72476798249963c535645c50f87cc",
+            "to_eth_address": "0x2b796c845ea9b6c545a4ffd5eeba1cbc41c4071b",
+            "executor_eth_address": "0xd33207eb62f72476798249963c535645c50f87cc",
+            "amount": "0x1d1a94a200",
+            "eth_txhash": "",
+            "knleader": ""
+        }
+    ],
+    "unix_timestamp_utc": 1541984461
+}
