@@ -1,0 +1,22 @@
+{
+    "unix_timestamp_utc_previous_file": 1543014301,
+    "hash_md5_previous_file": "d65233f523fad56a145d44bf2cb95b50",
+    "transactions": [
+        {
+            "txid": "15430545-1649-0113-4c07-0cb801663438",
+            "type": "deposit",
+            "status": "completed",
+            "datetime": 1543054624,
+            "sender": "",
+            "recipient": "0x07794594774de27b1a02543a9b0ebf5875797a01",
+            "initiator": "0x07794594774de27b1a02543a9b0ebf5875797a01",
+            "knleader": "",
+            "amount": "0x74f318282d",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15430545-1648-4816-fe93-f5730b3992e5\"}",
+            "product": "",
+            "result": "{\"ethTxHash\":\"0x5c3477f72da32e01e44937d32f482e4385581942be32ac94a02dc872b6aad87a\"}"
+        }
+    ],
+    "unix_timestamp_utc": 1543057501
+}
