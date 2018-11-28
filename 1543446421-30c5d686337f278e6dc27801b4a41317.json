@@ -1,0 +1,52 @@
+{
+    "unix_timestamp_utc_previous_file": 1543403221,
+    "hash_md5_previous_file": "b657f98472afd766bcc666d677e61e79",
+    "transactions": [
+        {
+            "txid": "15434181-7703-129e-2fcd-d46706472ce8",
+            "type": "deposit",
+            "status": "completed",
+            "datetime": 1543418345,
+            "sender": "",
+            "recipient": "0x666e12904d3b3676cfb2c5e299f54d73fad27fa1",
+            "initiator": "0x666e12904d3b3676cfb2c5e299f54d73fad27fa1",
+            "knleader": "",
+            "amount": "0x746a528800",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15434181-7702-618e-fc79-2e9604310c2d\"}",
+            "product": "",
+            "result": "{\"ethTxHash\":\"0x8ffde632951da609d949740bb32e699e79e38a6747d5eb853625ddb13845dfe3\"}"
+        },
+        {
+            "txid": "15434183-6735-1149-23ba-ba5f00cd3ded",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1543418367,
+            "sender": "0x666e12904d3b3676cfb2c5e299f54d73fad27fa1",
+            "recipient": "0xc7ce2e533325ec9d985ec2249ed231f7740f1c86",
+            "initiator": "0xc7ce2e533325ec9d985ec2249ed231f7740f1c86",
+            "knleader": "",
+            "amount": "0x2e90edd000",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "result": ""
+        },
+        {
+            "txid": "15434398-6153-43ff-0d28-dc620cc45c59",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1543439884,
+            "sender": "",
+            "recipient": "0x6df8524edbe4fe6ef110b65896db414327976ca6",
+            "initiator": "0x6df8524edbe4fe6ef110b65896db414327976ca6",
+            "knleader": "",
+            "amount": "0x5ac775939d0",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15434398-6152-8961-a2f0-691b035c03bb\"}",
+            "product": "",
+            "result": ""
+        }
+    ],
+    "unix_timestamp_utc": 1543446421
+}
