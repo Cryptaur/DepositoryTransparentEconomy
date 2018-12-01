@@ -1,0 +1,52 @@
+{
+    "unix_timestamp_utc_previous_file": 1543662481,
+    "hash_md5_previous_file": "2348a32c69e3ffbdc6b2e76abbb46f02",
+    "transactions": [
+        {
+            "txid": "15436679-7618-46b0-61dd-1fb8040fc371",
+            "type": "deposit",
+            "status": "completed",
+            "datetime": 1543668125,
+            "sender": "",
+            "recipient": "0x6df8524edbe4fe6ef110b65896db414327976ca6",
+            "initiator": "0x6df8524edbe4fe6ef110b65896db414327976ca6",
+            "knleader": "",
+            "amount": "0x65dd0837000",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15436679-7617-91a8-47f2-b4d20d393a9a\"}",
+            "product": "",
+            "result": "{\"ethTxHash\":\"0x665d8016be6d36dd64b96fdd6e249025b88efe686d1e4cc5e01d87f72ed7ff2e\"}"
+        },
+        {
+            "txid": "15436703-2028-13e0-44ed-9f0a0d38152a",
+            "type": "deposit",
+            "status": "completed",
+            "datetime": 1543670465,
+            "sender": "",
+            "recipient": "0x702d33e37693f298fbf60dfec61572d20d01dcfb",
+            "initiator": "0x702d33e37693f298fbf60dfec61572d20d01dcfb",
+            "knleader": "",
+            "amount": "0x2cc829e54cd",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15436703-2027-590e-8ee0-35f704e3863a\"}",
+            "product": "",
+            "result": "{\"ethTxHash\":\"0x624297c157572585975e811ddc543f9232d7a1ca7bf1fdf8769063058928f6c9\"}"
+        },
+        {
+            "txid": "15436941-1444-7202-b408-445803073f4a",
+            "type": "deposit",
+            "status": "completed",
+            "datetime": 1543694164,
+            "sender": "",
+            "recipient": "0x411a25eec66b34a05a1c672eade5808240fc9eae",
+            "initiator": "0x411a25eec66b34a05a1c672eade5808240fc9eae",
+            "knleader": "",
+            "amount": "0xb315688f80",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15436941-1444-1849-da53-59d600799aa7\"}",
+            "product": "",
+            "result": "{\"ethTxHash\":\"0x8f0fe3a0f1405e0d440b33c5d4d29430984b26feef7adfdae3cb580fa0c94055\"}"
+        }
+    ],
+    "unix_timestamp_utc": 1543705681
+}
