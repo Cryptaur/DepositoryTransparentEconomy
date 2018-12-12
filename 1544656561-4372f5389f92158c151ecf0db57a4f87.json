@@ -1,0 +1,82 @@
+{
+    "unix_timestamp_utc_previous_file": 1544613361,
+    "hash_md5_previous_file": "5337939d70c15eb23a4cef758d5ccca3",
+    "transactions": [
+        {
+            "txid": "15446210-5141-9688-653e-979306b01e51",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1544621104,
+            "sender": "",
+            "recipient": "0xe952a40cb3d411a91a9c3160272a20b0d1e64a22",
+            "initiator": "0xe952a40cb3d411a91a9c3160272a20b0d1e64a22",
+            "knleader": "",
+            "amount": "0x1d1a94a2000",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15446210-5141-42ea-a2d2-a6750acc73a3\"}",
+            "product": "",
+            "result": ""
+        },
+        {
+            "txid": "15446247-5259-5368-c7e6-e3fa02333958",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1544624765,
+            "sender": "",
+            "recipient": "0x5a51c597808f8055a39e2570d440025e8620b13d",
+            "initiator": "0x5a51c597808f8055a39e2570d440025e8620b13d",
+            "knleader": "",
+            "amount": "0x9184e72a000",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15446247-5258-98d4-0e12-08c3056a90e3\"}",
+            "product": "",
+            "result": ""
+        },
+        {
+            "txid": "15446351-2450-94b2-f84a-9de400de6045",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1544635124,
+            "sender": "0xc7ce2e533325ec9d985ec2249ed231f7740f1c86",
+            "recipient": "0x790ff5b030b737be11cdac925320467ee2aa50fe",
+            "initiator": "0xc7ce2e533325ec9d985ec2249ed231f7740f1c86",
+            "knleader": "",
+            "amount": "0x746a528800",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "result": ""
+        },
+        {
+            "txid": "15446355-7377-609e-560d-8cb10ee32692",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1544635573,
+            "sender": "0x790ff5b030b737be11cdac925320467ee2aa50fe",
+            "recipient": "0xc7ce2e533325ec9d985ec2249ed231f7740f1c86",
+            "initiator": "0xc7ce2e533325ec9d985ec2249ed231f7740f1c86",
+            "knleader": "",
+            "amount": "0x45d964b800",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "result": ""
+        },
+        {
+            "txid": "15446516-8472-65cb-1e5b-82f708f42890",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1544651684,
+            "sender": "0xfe50e46b5a0aacb2ae0e5bd898d2392008b2ff20",
+            "recipient": "0xc7ce2e533325ec9d985ec2249ed231f7740f1c86",
+            "initiator": "0xc7ce2e533325ec9d985ec2249ed231f7740f1c86",
+            "knleader": "",
+            "amount": "0x2540be400",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "result": ""
+        }
+    ],
+    "unix_timestamp_utc": 1544656561
+}
