@@ -1,0 +1,67 @@
+{
+    "unix_timestamp_utc_previous_file": 1545045421,
+    "hash_md5_previous_file": "116a05b4d4505ca2e0c01b0c78076aa9",
+    "transactions": [
+        {
+            "txid": "15450517-5675-962a-9120-50f8087e4326",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1545051784,
+            "sender": "",
+            "recipient": "0x3a7e81d623bbc5c39d039b55fd6a1e14be463388",
+            "initiator": "0x3a7e81d623bbc5c39d039b55fd6a1e14be463388",
+            "knleader": "",
+            "amount": "0x1d1a94a2000",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15450517-5675-44d1-0334-1698010494b1\"}",
+            "product": "",
+            "result": ""
+        },
+        {
+            "txid": "15450522-7148-5003-a8fa-de7e01dcb96c",
+            "type": "deposit",
+            "status": "completed",
+            "datetime": 1545052324,
+            "sender": "",
+            "recipient": "0x91d3759ec28e3e5b5ada2d05974a03fc4f3f0e59",
+            "initiator": "0x91d3759ec28e3e5b5ada2d05974a03fc4f3f0e59",
+            "knleader": "",
+            "amount": "0x12a05f2000",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15450522-7147-968a-5257-d8f4089d6412\"}",
+            "product": "",
+            "result": "{\"ethTxHash\":\"0xafbb6a5f190ce7c0f7f3dacdddd53891b58be7f5d69ba95ec16641e129d37261\"}"
+        },
+        {
+            "txid": "15450524-5759-62c1-84c1-27450611860f",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1545052457,
+            "sender": "0x91d3759ec28e3e5b5ada2d05974a03fc4f3f0e59",
+            "recipient": "0xc7ce2e533325ec9d985ec2249ed231f7740f1c86",
+            "initiator": "0xc7ce2e533325ec9d985ec2249ed231f7740f1c86",
+            "knleader": "",
+            "amount": "0x12a05f2000",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "result": ""
+        },
+        {
+            "txid": "15450620-6729-48c8-5f1d-1d9b098aaecd",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1545062067,
+            "sender": "0xc1f6a2536815d68cae3ae9b22f55c17fedc49a41",
+            "recipient": "0xc7ce2e533325ec9d985ec2249ed231f7740f1c86",
+            "initiator": "0xc7ce2e533325ec9d985ec2249ed231f7740f1c86",
+            "knleader": "",
+            "amount": "0x18bcfe56800",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "result": ""
+        }
+    ],
+    "unix_timestamp_utc": 1545088621
+}
