@@ -1,0 +1,67 @@
+{
+    "unix_timestamp_utc_previous_file": 1561967581,
+    "hash_md5_previous_file": "cdf15d7b16dea702a6dfbd0fc43f3351",
+    "transactions": [
+        {
+            "txid": "15618956-1637-5242-c643-ee700863278d",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1561982046,
+            "sender": "",
+            "recipient": "0xb1d58c029bab14701a4b56b9aaaa1fbc6892423b",
+            "initiator": "0xb1d58c029bab14701a4b56b9aaaa1fbc6892423b",
+            "knleader": "",
+            "amount": "0x48c27395000",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15618956-1637-264f-b0df-1fb30097b305\"}",
+            "product": "",
+            "result": ""
+        },
+        {
+            "txid": "15619781-7430-69f5-f74c-02dc03e918a8",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1561978174,
+            "sender": "0xd33207eb62f72476798249963c535645c50f87cc",
+            "recipient": "0x9743f33de859c24afce55954fd6526f8db7df0e8",
+            "initiator": "0xd33207eb62f72476798249963c535645c50f87cc",
+            "knleader": "",
+            "amount": "0x45d964b800",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "result": ""
+        },
+        {
+            "txid": "15619782-6257-1438-e7ab-04e20464827b",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1561978262,
+            "sender": "0xd33207eb62f72476798249963c535645c50f87cc",
+            "recipient": "0x5a51c597808f8055a39e2570d440025e8620b13d",
+            "initiator": "0xd33207eb62f72476798249963c535645c50f87cc",
+            "knleader": "",
+            "amount": "0x45d964b800",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "result": ""
+        },
+        {
+            "txid": "15619784-6147-3503-d78d-d52c0340eb35",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1561978461,
+            "sender": "0xd33207eb62f72476798249963c535645c50f87cc",
+            "recipient": "0xce20a920051a6b344f9f17fa58180016da2ad989",
+            "initiator": "0xd33207eb62f72476798249963c535645c50f87cc",
+            "knleader": "",
+            "amount": "0x1130cb6a04e9e",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "result": ""
+        }
+    ],
+    "unix_timestamp_utc": 1562010841
+}
