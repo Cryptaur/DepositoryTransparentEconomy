@@ -1,0 +1,67 @@
+{
+    "unix_timestamp_utc_previous_file": 1562702402,
+    "hash_md5_previous_file": "20a9ec046e40e1f55bd766fdb40687df",
+    "transactions": [
+        {
+            "txid": "15627256-4388-666a-501b-8b670ed880de",
+            "type": "withdrawal",
+            "status": "completed",
+            "datetime": 1562725746,
+            "sender": "0xd7cfe2ef7313d8a39cf8def0e759660e3ffbc5b8",
+            "recipient": "",
+            "initiator": "0xd7cfe2ef7313d8a39cf8def0e759660e3ffbc5b8",
+            "knleader": "",
+            "amount": "0x4ce3d680",
+            "fee": "0x2540be400",
+            "message": "{\"CryptaurWallet_uuid\":\"15627256-4383-5349-9de7-fede09cfd2fe\"}",
+            "product": "",
+            "result": "{\"ethTxHash\":\"0xfe788b709ec3fa7b704ec07903bc8940638006754b27cc3888624778610c376b\"}"
+        },
+        {
+            "txid": "15627259-2800-61d4-f87a-93770252c849",
+            "type": "withdrawal",
+            "status": "completed",
+            "datetime": 1562725986,
+            "sender": "0xd7cfe2ef7313d8a39cf8def0e759660e3ffbc5b8",
+            "recipient": "",
+            "initiator": "0xd7cfe2ef7313d8a39cf8def0e759660e3ffbc5b8",
+            "knleader": "",
+            "amount": "0x4c38f080",
+            "fee": "0x2540be400",
+            "message": "{\"CryptaurWallet_uuid\":\"15627259-2798-33bf-c2c0-beec099e440a\"}",
+            "product": "",
+            "result": "{\"ethTxHash\":\"0x715c99ef8ecdfe86448276f1acf35259b39f4b40d742f97d155007cfe0991e72\"}"
+        },
+        {
+            "txid": "15627332-6603-8250-0ee2-94200aff2849",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1562733306,
+            "sender": "",
+            "recipient": "0x59fbb2cc5f4d2809a4b0f1540ec0c3a2296cd547",
+            "initiator": "0x59fbb2cc5f4d2809a4b0f1540ec0c3a2296cd547",
+            "knleader": "",
+            "amount": "0x1181fd697400",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15627332-6603-095b-e6b7-0198015e56a1\"}",
+            "product": "",
+            "result": ""
+        },
+        {
+            "txid": "15627334-3088-13ec-bcfb-292802d99ca1",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1562733486,
+            "sender": "",
+            "recipient": "0x59fbb2cc5f4d2809a4b0f1540ec0c3a2296cd547",
+            "initiator": "0x59fbb2cc5f4d2809a4b0f1540ec0c3a2296cd547",
+            "knleader": "",
+            "amount": "0x1181fd697400",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15627334-3087-4665-db1c-3d8a0881e86d\"}",
+            "product": "",
+            "result": ""
+        }
+    ],
+    "unix_timestamp_utc": 1562745721
+}
