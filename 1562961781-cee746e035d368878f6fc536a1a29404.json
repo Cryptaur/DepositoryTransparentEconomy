@@ -1,0 +1,37 @@
+{
+    "unix_timestamp_utc_previous_file": 1562918522,
+    "hash_md5_previous_file": "f6b9a375303f98debb4834a7bd4e2e97",
+    "transactions": [
+        {
+            "txid": "15629355-7182-6268-5f71-58b60c4479a5",
+            "type": "random",
+            "status": "completed",
+            "datetime": 1562935934,
+            "sender": "",
+            "recipient": "",
+            "initiator": "0xdd6bfbce4bdc3150f660d35bff1c5d7b60104d1e",
+            "knleader": "",
+            "amount": "0x0",
+            "fee": "0x1dcd6500",
+            "message": "",
+            "product": "",
+            "result": "{\"blockchain\":[{\"type\":\"nem\",\"hash\":\"f1bc45ed048b236827a3c179f9933071840cd026279bc7af1d2f75ab50bd693b\",\"signature\":\"ea0073cbb67c1439a6d1f6ff044fff57a121d3c9de815c9d30d1a8d46db9e9a766cebbdbebf3c3c08099e69727bb5322de87020a3e71a9b0b5d192ee03f2ce01\"}],\"random_number\":\"0x2ab15c43\"}"
+        },
+        {
+            "txid": "15629359-3493-567a-2d4f-2bcd0f7fab1b",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1562935934,
+            "sender": "0xec4c99e3695fd355210573f82e15aec1186a7303",
+            "recipient": "0xdd6bfbce4bdc3150f660d35bff1c5d7b60104d1e",
+            "initiator": "0xdd6bfbce4bdc3150f660d35bff1c5d7b60104d1e",
+            "knleader": "",
+            "amount": "0x2540be400",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "result": ""
+        }
+    ],
+    "unix_timestamp_utc": 1562961781
+}
