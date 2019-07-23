@@ -1,0 +1,22 @@
+{
+    "unix_timestamp_utc_previous_file": 1563869522,
+    "hash_md5_previous_file": "f5d012febd6c06f9de46a9f531a5168c",
+    "transactions": [
+        {
+            "txid": "15639041-3966-7048-da15-bd7d04d4bb82",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1563904146,
+            "sender": "",
+            "recipient": "0xceb730b572d31d9b7b0131525e694ce4585cd43b",
+            "initiator": "0xceb730b572d31d9b7b0131525e694ce4585cd43b",
+            "knleader": "",
+            "amount": "0x805d6",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15639041-3960-7367-6117-4a1a05d10312\"}",
+            "product": "",
+            "result": ""
+        }
+    ],
+    "unix_timestamp_utc": 1563912841
+}
