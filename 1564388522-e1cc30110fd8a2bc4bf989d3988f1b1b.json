@@ -1,0 +1,22 @@
+{
+    "unix_timestamp_utc_previous_file": 1564345321,
+    "hash_md5_previous_file": "27b881fb1f59d15fb0f1407c872f37d5",
+    "transactions": [
+        {
+            "txid": "15643775-7084-15e2-ebda-c6f804e0edf7",
+            "type": "withdrawal",
+            "status": "completed",
+            "datetime": 1564377669,
+            "sender": "0xddc14374bca751d2e158b0ba4057e3463df1c6a0",
+            "recipient": "",
+            "initiator": "0xddc14374bca751d2e158b0ba4057e3463df1c6a0",
+            "knleader": "",
+            "amount": "0x5af0bc6e5c00",
+            "fee": "0x2540be400",
+            "message": "{\"CryptaurWallet_uuid\":\"15643775-7078-05f1-2124-5153059e56bc\"}",
+            "product": "",
+            "result": "{\"ethTxHash\":\"0xe0a06db9acb30142b236e7ac588ce6c30544d80e97dabf8a6a26ff578d864d47\"}"
+        }
+    ],
+    "unix_timestamp_utc": 1564388522
+}
