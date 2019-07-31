@@ -1,0 +1,52 @@
+{
+    "unix_timestamp_utc_previous_file": 1564518181,
+    "hash_md5_previous_file": "11d7f554bd61c5a0b9af253912c41c34",
+    "transactions": [
+        {
+            "txid": "15645403-4717-501a-adf1-41db034934db",
+            "type": "withdrawal",
+            "status": "completed",
+            "datetime": 1564540450,
+            "sender": "0x68ae76a1b02c58b117d5bdfc08faceb958ec191e",
+            "recipient": "",
+            "initiator": "0x68ae76a1b02c58b117d5bdfc08faceb958ec191e",
+            "knleader": "",
+            "amount": "0x1cd01325800",
+            "fee": "0x2540be400",
+            "message": "{\"CryptaurWallet_uuid\":\"15645403-4713-08f1-edc2-a6cf013a638a\"}",
+            "product": "",
+            "result": "{\"ethTxHash\":\"0x0a92bc84e432bab6639641dcbda2ac2c1161534111fa48f6f958e1998dd1a9e2\"}"
+        },
+        {
+            "txid": "15645502-7666-9497-15fd-b6c30d4ca30c",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1564550290,
+            "sender": "",
+            "recipient": "0xb243f4f0ed47c998e7c8f9a59197939599023e3c",
+            "initiator": "0xb243f4f0ed47c998e7c8f9a59197939599023e3c",
+            "knleader": "",
+            "amount": "0x16e322f700",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15645502-7666-23e6-509c-fc0301af6278\"}",
+            "product": "",
+            "result": ""
+        },
+        {
+            "txid": "15645573-3456-3836-1638-e967007708c9",
+            "type": "deposit",
+            "status": "completed",
+            "datetime": 1564557430,
+            "sender": "",
+            "recipient": "0x5b518634ce72cc9868f77bb81cd8e5d295d4b79f",
+            "initiator": "0x5b518634ce72cc9868f77bb81cd8e5d295d4b79f",
+            "knleader": "",
+            "amount": "0x2d79883d2000",
+            "fee": "0x0",
+            "message": "{\"CryptaurWallet_uuid\":\"15645573-3455-78b7-7861-6e1e0ddd38c7\"}",
+            "product": "",
+            "result": "{\"ethTxHash\":\"0xa6fadc8c57d3adbf7e58d396fbb748ae3e41207817f369f9fb0ea0c088e8dfab\"}"
+        }
+    ],
+    "unix_timestamp_utc": 1564561381
+}
