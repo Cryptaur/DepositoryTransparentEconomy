@@ -1,0 +1,58 @@
+{
+    "unix_timestamp_utc_previous_file": 1566336781,
+    "hash_md5_previous_file": "de29cbb509feab0b756ec91ddd86de0b",
+    "transactions": [
+        {
+            "txid": "15663566-9492-4980-3f0d-e2ca0504599f",
+            "type": "withdrawal",
+            "status": "completed",
+            "datetime": 1566356826,
+            "sender": "0x201a4e2aefb3b36e9e55a9a503e36bfcb75423d7",
+            "recipient": "0xcac459a12547e7ea517ec5ab2b361baf8325bb21",
+            "initiator": "0x201a4e2aefb3b36e9e55a9a503e36bfcb75423d7",
+            "knleader": "",
+            "amount": "0xba43b7400",
+            "fee": "0x2540be400",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "{\"ethTxHash\":\"0xc67e3d6ef905eec8dad74f85e1f67344b38e3295aeaa6b56d549467e5f8bdf43\"}",
+            "result": "{\"ethTxHash\":\"0xc67e3d6ef905eec8dad74f85e1f67344b38e3295aeaa6b56d549467e5f8bdf43\"}"
+        },
+        {
+            "txid": "15663576-2193-46e0-2f3f-c0f10b645d62",
+            "type": "deposit",
+            "status": "completed",
+            "datetime": 1566357786,
+            "sender": "0xcac459a12547e7ea517ec5ab2b361baf8325bb21",
+            "recipient": "0x201a4e2aefb3b36e9e55a9a503e36bfcb75423d7",
+            "initiator": "0x201a4e2aefb3b36e9e55a9a503e36bfcb75423d7",
+            "knleader": "",
+            "amount": "0xdf8475800",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "{\"ethTxHash\":\"0x7482259361e57de916e13745bdc2de571496baea99200bb0f89cc9d6f26d77b2\"}",
+            "result": "{\"ethTxHash\":\"0x7482259361e57de916e13745bdc2de571496baea99200bb0f89cc9d6f26d77b2\"}"
+        },
+        {
+            "txid": "15663775-6161-32d8-5668-3437028126cb",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1566377561,
+            "sender": "0x979b67f02e7b1bc94d28620b828995d65f81da42",
+            "recipient": "0xa7279965d90d2ee984d604a58a193b28a7c4a271",
+            "initiator": "0x979b67f02e7b1bc94d28620b828995d65f81da42",
+            "knleader": "",
+            "amount": "0x12a05f200",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "",
+            "result": ""
+        }
+    ],
+    "unix_timestamp_utc": 1566379981
+}
