@@ -1,0 +1,58 @@
+{
+    "unix_timestamp_utc_previous_file": 1566682502,
+    "hash_md5_previous_file": "2c8ebd81a33cfff1c857eeb9a0eaf2ae",
+    "transactions": [
+        {
+            "txid": "15667172-1263-2186-1f36-015807f838bc",
+            "type": "withdrawal",
+            "status": "completed",
+            "datetime": 1566717307,
+            "sender": "0xb412bf13e08b7d4c7db09ca2640ec0ac5e06c7e0",
+            "recipient": "0xcac459a12547e7ea517ec5ab2b361baf8325bb21",
+            "initiator": "0xb412bf13e08b7d4c7db09ca2640ec0ac5e06c7e0",
+            "knleader": "",
+            "amount": "0x174876e800",
+            "fee": "0x2540be400",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "{\"ethTxHash\":\"0x900dca0cbb8f99de31e1e9111218f278e6be1cbb4c2d4c7061900793f4d10ba3\"}",
+            "result": "{\"ethTxHash\":\"0x900dca0cbb8f99de31e1e9111218f278e6be1cbb4c2d4c7061900793f4d10ba3\"}"
+        },
+        {
+            "txid": "15667228-1560-15f4-effa-128c0ca72c1c",
+            "type": "withdrawal",
+            "status": "completed",
+            "datetime": 1566722886,
+            "sender": "0x96f74808ecf40639068c7e5c9f413cd499bd415a",
+            "recipient": "0xcac459a12547e7ea517ec5ab2b361baf8325bb21",
+            "initiator": "0x96f74808ecf40639068c7e5c9f413cd499bd415a",
+            "knleader": "",
+            "amount": "0x443e1f1300",
+            "fee": "0x2540be400",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "{\"ethTxHash\":\"0xb57253c036d323cea2217a9445c83a9d52e267b586893aea115c6c25f09f23fc\"}",
+            "result": "{\"ethTxHash\":\"0xb57253c036d323cea2217a9445c83a9d52e267b586893aea115c6c25f09f23fc\"}"
+        },
+        {
+            "txid": "15667235-5283-76cd-edb0-82ad0b1b3fc5",
+            "type": "deposit",
+            "status": "completed",
+            "datetime": 1566723607,
+            "sender": "0xcac459a12547e7ea517ec5ab2b361baf8325bb21",
+            "recipient": "0x8b054f8c2a699306a886cf93b71f4b4f5ce93b59",
+            "initiator": "0x8b054f8c2a699306a886cf93b71f4b4f5ce93b59",
+            "knleader": "",
+            "amount": "0x45d964b800",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "{\"ethTxHash\":\"0x37350886bec2d1f5f5ef761ccd088c4f658aa26cd3a22c52b53c2a3df2cf2c2c\"}",
+            "result": "{\"ethTxHash\":\"0x37350886bec2d1f5f5ef761ccd088c4f658aa26cd3a22c52b53c2a3df2cf2c2c\"}"
+        }
+    ],
+    "unix_timestamp_utc": 1566725702
+}
