@@ -1,0 +1,41 @@
+{
+    "unix_timestamp_utc_previous_file": 1567157943,
+    "hash_md5_previous_file": "ba62696f431f2158d62915887f43b42c",
+    "transactions": [
+        {
+            "txid": "15671784-5426-8270-38b9-3a0c03d898d1",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1567178454,
+            "sender": "0xf48cb02df6043c4d2a5436f49b83125b9d903d7c",
+            "recipient": "0xc0922c3197384442f7cf674fffd0ec0af81b1a2c",
+            "initiator": "0xf48cb02df6043c4d2a5436f49b83125b9d903d7c",
+            "knleader": "",
+            "amount": "0x2e05f95f00",
+            "fee": "0x0",
+            "message": "{\"payment_id\":\"2019_08_28-subscribe_general-695663\"}",
+            "product": "",
+            "is_purchase": false,
+            "payload": "",
+            "result": ""
+        },
+        {
+            "txid": "15671784-5474-6770-7b92-cc7400114ca2",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1567178454,
+            "sender": "0xf48cb02df6043c4d2a5436f49b83125b9d903d7c",
+            "recipient": "0xc0922c3197384442f7cf674fffd0ec0af81b1a2c",
+            "initiator": "0xf48cb02df6043c4d2a5436f49b83125b9d903d7c",
+            "knleader": "",
+            "amount": "0x2e05f95f00",
+            "fee": "0x0",
+            "message": "{\"payment_id\":\"2019_08_30-subscribe_general-695663\"}",
+            "product": "",
+            "is_purchase": false,
+            "payload": "",
+            "result": ""
+        }
+    ],
+    "unix_timestamp_utc": 1567201202
+}
