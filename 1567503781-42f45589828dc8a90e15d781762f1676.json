@@ -1,0 +1,41 @@
+{
+    "unix_timestamp_utc_previous_file": 1567460581,
+    "hash_md5_previous_file": "1200ec1a3d0f9c7cd03ce114de28a95d",
+    "transactions": [
+        {
+            "txid": "15674751-5154-692b-7026-bcc701f3e104",
+            "type": "random",
+            "status": "completed",
+            "datetime": 1567475287,
+            "sender": "",
+            "recipient": "",
+            "initiator": "0xdd6bfbce4bdc3150f660d35bff1c5d7b60104d1e",
+            "knleader": "",
+            "amount": "0x0",
+            "fee": "0x1dcd6500",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "{\"blockchain\":[{\"type\":\"nem\",\"hash\":\"44f2eab6c57b002915342f3c9d58c46265efa2245a69f1bb18c655b9069e4a73\",\"signature\":\"b05338a2aa176605e6b4758e3d620d7f3b4e83dc913ef3c446a2d91b237026846458b95dccf6abfc432f742bb10e726207061751ace58baaf6a0776837828c0c\"}],\"random_number\":\"0x1b6a8b2b\"}",
+            "result": "{\"blockchain\":[{\"type\":\"nem\",\"hash\":\"44f2eab6c57b002915342f3c9d58c46265efa2245a69f1bb18c655b9069e4a73\",\"signature\":\"b05338a2aa176605e6b4758e3d620d7f3b4e83dc913ef3c446a2d91b237026846458b95dccf6abfc432f742bb10e726207061751ace58baaf6a0776837828c0c\"}],\"random_number\":\"0x1b6a8b2b\"}"
+        },
+        {
+            "txid": "15674762-9176-360d-371b-6f6804e6d9cc",
+            "type": "withdrawal",
+            "status": "pending",
+            "datetime": 1567476291,
+            "sender": "0x725067d4037b22dc98491aca38c78a40615b516f",
+            "recipient": "0xcac459a12547e7ea517ec5ab2b361baf8325bb21",
+            "initiator": "0x725067d4037b22dc98491aca38c78a40615b516f",
+            "knleader": "",
+            "amount": "0x2ba7def3000",
+            "fee": "0x2540be400",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "{\"CryptaurWallet_uuid\":\"15674762-9160-0514-d73f-5c230abd5726\"}",
+            "result": "{\"CryptaurWallet_uuid\":\"15674762-9160-0514-d73f-5c230abd5726\"}"
+        }
+    ],
+    "unix_timestamp_utc": 1567503781
+}
