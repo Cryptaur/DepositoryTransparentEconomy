@@ -1,0 +1,58 @@
+{
+    "unix_timestamp_utc_previous_file": 1568108821,
+    "hash_md5_previous_file": "0f35062f923266aa11f498a406851347",
+    "transactions": [
+        {
+            "txid": "15681306-5798-56aa-35e3-ca4e030faa48",
+            "type": "deposit",
+            "status": "completed",
+            "datetime": 1568130729,
+            "sender": "0xcac459a12547e7ea517ec5ab2b361baf8325bb21",
+            "recipient": "0x04b012726f2a1dd1e37846dab86cf8c92021a16b",
+            "initiator": "0x04b012726f2a1dd1e37846dab86cf8c92021a16b",
+            "knleader": "",
+            "amount": "0x2e90edd000",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "{\"ethTxHash\":\"0xf5df4a76d8c9323e5204d1fbcaeb69321a87a5818b4c2a65ddb2f78560419c48\"}",
+            "result": "{\"ethTxHash\":\"0xf5df4a76d8c9323e5204d1fbcaeb69321a87a5818b4c2a65ddb2f78560419c48\"}"
+        },
+        {
+            "txid": "15681307-9903-459a-a980-77430f315979",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1568130799,
+            "sender": "0x04b012726f2a1dd1e37846dab86cf8c92021a16b",
+            "recipient": "0xdb8a8204f4a26cbb24b9da953efe99ccadf793e6",
+            "initiator": "0x04b012726f2a1dd1e37846dab86cf8c92021a16b",
+            "knleader": "",
+            "amount": "0x2e90edd000",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "",
+            "result": ""
+        },
+        {
+            "txid": "15681369-5580-5348-f941-cdd604151f6c",
+            "type": "deposit",
+            "status": "failed",
+            "datetime": 1568136965,
+            "sender": "0xcac459a12547e7ea517ec5ab2b361baf8325bb21",
+            "recipient": "0xa985979b969aab4daecbdee10bad7283b863b681",
+            "initiator": "0xa985979b969aab4daecbdee10bad7283b863b681",
+            "knleader": "",
+            "amount": "0x948534f480",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "{\"CryptaurWallet_uuid\":\"15681369-5565-1050-9644-789e0cc35f5a\"}",
+            "result": "{\"CryptaurWallet_uuid\":\"15681369-5565-1050-9644-789e0cc35f5a\"}"
+        }
+    ],
+    "unix_timestamp_utc": 1568152021
+}
