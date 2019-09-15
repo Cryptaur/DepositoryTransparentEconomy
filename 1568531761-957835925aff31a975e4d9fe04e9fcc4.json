@@ -1,0 +1,24 @@
+{
+    "unix_timestamp_utc_previous_file": 1568488561,
+    "hash_md5_previous_file": "08eba26e7ca0f829afab114ba1b7a7f7",
+    "transactions": [
+        {
+            "txid": "15674762-9176-360d-371b-6f6804e6d9cc",
+            "type": "withdrawal",
+            "status": "completed",
+            "datetime": 1568495946,
+            "sender": "0x725067d4037b22dc98491aca38c78a40615b516f",
+            "recipient": "0xcac459a12547e7ea517ec5ab2b361baf8325bb21",
+            "initiator": "0x725067d4037b22dc98491aca38c78a40615b516f",
+            "knleader": "",
+            "amount": "0x2ba7def3000",
+            "fee": "0x2540be400",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "{\"ethTxHash\":\"0xf5316803bf2f779383cf55f24353f9f689faff79950f6010cba401a212bc9060\"}",
+            "result": "{\"ethTxHash\":\"0xf5316803bf2f779383cf55f24353f9f689faff79950f6010cba401a212bc9060\"}"
+        }
+    ],
+    "unix_timestamp_utc": 1568531761
+}
