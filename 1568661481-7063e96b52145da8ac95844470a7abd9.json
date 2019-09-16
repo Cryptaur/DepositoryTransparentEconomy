@@ -1,0 +1,24 @@
+{
+    "unix_timestamp_utc_previous_file": 1568618162,
+    "hash_md5_previous_file": "8b08ab6c0d6e0bfe426361ae9e71652d",
+    "transactions": [
+        {
+            "txid": "15686320-2643-7205-8472-bfd106787ac4",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1568632026,
+            "sender": "0x11b9045bf197169d434773752af157895cc06dc7",
+            "recipient": "0xa7279965d90d2ee984d604a58a193b28a7c4a271",
+            "initiator": "0x11b9045bf197169d434773752af157895cc06dc7",
+            "knleader": "",
+            "amount": "0x18a2885798",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "",
+            "result": ""
+        }
+    ],
+    "unix_timestamp_utc": 1568661481
+}
