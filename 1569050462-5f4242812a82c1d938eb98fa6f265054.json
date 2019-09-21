@@ -1,0 +1,58 @@
+{
+    "unix_timestamp_utc_previous_file": 1569007261,
+    "hash_md5_previous_file": "2c84cf456f10d70aae49f59fa41a314e",
+    "transactions": [
+        {
+            "txid": "15690093-3204-3041-f54f-928501e8e1a1",
+            "type": "transfer",
+            "status": "completed",
+            "datetime": 1569009332,
+            "sender": "0xa7279965d90d2ee984d604a58a193b28a7c4a271",
+            "recipient": "0xce20a920051a6b344f9f17fa58180016da2ad989",
+            "initiator": "0xa7279965d90d2ee984d604a58a193b28a7c4a271",
+            "knleader": "",
+            "amount": "0x1dcd6500",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "",
+            "result": ""
+        },
+        {
+            "txid": "15690094-5855-331a-989e-4f8a0c8d733a",
+            "type": "deposit",
+            "status": "pending",
+            "datetime": 1569009458,
+            "sender": "0xcac459a12547e7ea517ec5ab2b361baf8325bb21",
+            "recipient": "0xa7279965d90d2ee984d604a58a193b28a7c4a271",
+            "initiator": "0xa7279965d90d2ee984d604a58a193b28a7c4a271",
+            "knleader": "",
+            "amount": "0xe8d4a51000",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "{\"CryptaurWallet_uuid\":\"15690094-5847-1341-1962-923d07f622e7\"}",
+            "result": "{\"CryptaurWallet_uuid\":\"15690094-5847-1341-1962-923d07f622e7\"}"
+        },
+        {
+            "txid": "15690348-0280-3224-00de-615c0ae03a8d",
+            "type": "deposit",
+            "status": "pending",
+            "datetime": 1569034802,
+            "sender": "0xcac459a12547e7ea517ec5ab2b361baf8325bb21",
+            "recipient": "0xf275d1b28d6552e39223f6b41c7901ec26432dea",
+            "initiator": "0xf275d1b28d6552e39223f6b41c7901ec26432dea",
+            "knleader": "",
+            "amount": "0x1362e0d86200",
+            "fee": "0x0",
+            "message": "",
+            "product": "",
+            "is_purchase": false,
+            "payload": "{\"CryptaurWallet_uuid\":\"15690348-0264-69d3-f703-743303873558\"}",
+            "result": "{\"CryptaurWallet_uuid\":\"15690348-0264-69d3-f703-743303873558\"}"
+        }
+    ],
+    "unix_timestamp_utc": 1569050462
+}
